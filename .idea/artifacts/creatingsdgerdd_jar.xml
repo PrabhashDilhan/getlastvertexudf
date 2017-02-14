@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="creatingsdgerdd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/creatingsdgerdd_jar</output-path>
+    <root id="archive" name="creatingsdgerdd.jar">
+      <element id="module-output" name="creatingsdgerdd" />
+      <element id="module-test-output" name="creatingsdgerdd" />
+    </root>
+  </artifact>
+</component>
